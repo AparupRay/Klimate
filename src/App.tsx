@@ -29,7 +29,7 @@ function App() {
 }
 
 export default App;
-//29:00
+//38:43
 //https://www.youtube.com/watch?v=BCp_5PoKrvI
 
 //While most traditional state management libraries are great for working with client state,
