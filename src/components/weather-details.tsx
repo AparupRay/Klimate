@@ -68,7 +68,7 @@ const WeatherDetails = ({ data }: WeatherDetailsProps) => {
                 <p className="text-sm font-medium leading-none">
                   {detail.title}
                 </p>
-                <p>{detail.value}</p>
+                <p className="text-sm text-muted-foreground">{detail.value}</p>
               </div>
             </div>
           ))}
